@@ -1,1 +1,92 @@
 # kaarrarhayder.github.io
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>كرار حيدر | الموقع الرسمي</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fefefe;
+      color: #222;
+      line-height: 1.6;
+      direction: rtl;
+    }
+    header {
+      background: linear-gradient(135deg, #000, #444);
+      color: #fff;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    section {
+      padding: 2rem 1.5rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    section h2 {
+      color: #c09338;
+      font-size: 1.8rem;
+      border-bottom: 2px solid #c09338;
+      padding-bottom: 0.5rem;
+    }
+    .contact {
+      background: #f5f5f5;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-top: 2rem;
+    }
+    .contact a {
+      display: block;
+      color: #000;
+      text-decoration: none;
+      margin: 0.5rem 0;
+    }
+    footer {
+      background: #eee;
+      padding: 1rem;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>كرار حيدر فليح</h1>
+    <p>طالب سادس إعدادي علمي | عاشق للتصميم والفن والإبداع</p>
+  </header>
+
+  <section>
+    <h2>من أنا؟</h2>
+    <p>اسمي كرار، طالب سادس علمي من العراق، أؤمن بأن الجمال في التفاصيل، أعشق الفن والتصميم وأحب تحويل الأفكار إلى صور تعبر عني. أسعى دائمًا إلى تطوير نفسي والبحث عن التوازن بين البساطة والأناقة.</p>
+
+    <h2>اهتماماتي</h2>
+    <p>أحب التصميم، التصوير، التفكير النقدي، وأستلهم من الماضي لأصنع مستقبلًا مختلفًا. أؤمن بالإبداع والانفتاح وأبحث دائمًا عن تحديات توسّع مداركي وتغذي شغفي.</p>
+
+    <h2>مشروعي الحالي</h2>
+    <p>أعمل حاليًا على مشروع علمي طموح لاكتشاف طريقة لتوليد الطاقة من الفراغ. أهدف إلى إنجاز علمي يخلّد اسمي مثل آينشتاين وتسلا.</p>
+
+    <div class="contact">
+      <h2>تواصل معي</h2>
+      <a href="tel:07816182503">📞 07816182503</a>
+      <a href="https://instagram.com/k9x9i" target="_blank">📷 Instagram: k9x9i</a>
+      <a href="https://t.me/K1_ar1" target="_blank">✈️ Telegram: @K1_ar1</a>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 كرار حيدر – جميع الحقوق محفوظة
+  </footer>
+</body>
+</html>
